@@ -6,6 +6,6 @@
   * [通讯参数](终端参数/ss.md)
     * [主站地址](终端参数/ss/ss-1.md)
 * [终端数据](终端数据.md)
-* 测量点参数
-* 测量点数据
+* [测量点参数](ce-liang-dian-can-shu.md)
+* [测量点数据](ce-liang-dian-shu-ju.md)
 
